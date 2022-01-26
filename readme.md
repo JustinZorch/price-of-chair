@@ -1,4 +1,5 @@
 # Pricing Service
+Forked version by Justin Louckx (no clue what I'm really doing)
 
 This is an application built to allow the periodic scanning of online webstores, to notify users of changes in prices of items they select.
 
